@@ -2,7 +2,7 @@ version: '3.1'
 
 services:
   utor:
-    image: utor:1.0
+    image: utor:1.1
     restart: always
     volumes:
       - /home/p0l3/RAD/UTOR/UTOR/:/UTOR
