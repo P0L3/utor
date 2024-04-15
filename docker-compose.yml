@@ -5,7 +5,7 @@ services:
     image: utor:1.1
     restart: always
     volumes:
-      - /home/p0l3/RAD/UTOR/UTOR/:/UTOR
+      - /home/andrija/RAD/UTOR/utor/UTOR:/UTOR
     command: tail -f /dev/null
 
 
