@@ -8,4 +8,5 @@ docker build -t utor:1.1 .
 ``` shell
 docker compose up
 ```
+> Watch out for volume location, fix it accordingly
 
