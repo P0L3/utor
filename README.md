@@ -3,11 +3,12 @@
 ``` shell
 docker build -t utor:1.1 . 
 ```
-> Takes aprox. 1500 s
+> Takes approx. 1500s
 
 2. Run docker compose in the folder where [./docker-compose.yml](docker-compose.yml) is and open it in VS code:
 ``` shell
 docker compose up
 ```
 > Watch out for volume location, fix it accordingly
+> Takes approx. 105s
 
