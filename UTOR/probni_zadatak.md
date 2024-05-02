@@ -31,3 +31,5 @@
 > Ponovite postupak (zadatke [4](#zadatak-4), [5](#zadatak-5), [6](#zadatak-6)) za HTML verziju dokumenta dostupnu na [ar5iv](https://ar5iv.labs.arxiv.org) sjedištu, na linku: https://ar5iv.labs.arxiv.org/html/1706.03762
 
 ## Zadatak 8
+
+> Usporedite rezultate izlučivanja iz PDF i HTML dokumenta. 
