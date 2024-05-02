@@ -10,5 +10,6 @@ docker build -t utor:1.1 .
 docker compose up
 ```
 > Watch out for volume location, fix it accordingly
+
 > Takes approx. 105s
 
