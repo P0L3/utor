@@ -43,9 +43,9 @@ U ovom zadatku potrebno je:
 | **Sažetak** | STRING - Tekstualni sadržaj sažetka (abstract): `"U ovome radu opisana je primjena i prednosti korištenja paralelizma (paralelnog programiranja) kod rada sa dubokim neuralnim mrežama, nadalje DNN. ..."` |
 | Sadržaj | STRING - Tekstualni sadržaj samog rada: `"Pojam umjetne inteligencije prvi spominje John McCarthy 1956. prilikom održavanja prve znanstvene konferencije [1] na temu inteligentnih računala. Iako ... "` |
 
-3. Automatski izlučiti podatke s proizvoljnim open-source alatom.
+3. Automatski izlučiti podatke s proizvoljnim open-source alatom/bibliotekom.
 
-4. Izlučene podatke spremiti u barem 3 različita formata.
+4. Izlučene podatke spremiti u json i csv formatu te dva prozvoljno izabrana formata (npr. parquet, xml).
 
 5. Uz kod napisati pripadnu dokumentaciju:
 	- Informacije o izvoru podataka
@@ -53,5 +53,9 @@ U ovom zadatku potrebno je:
 	- Struktura spremljenih podataka
 	- Bilješke o izlučivanju podataka (npr. *U nekim radovima nije bilo moguće izlučiti podnaslove jer se ne razlikuju od ostatka teksta.*)
 
+6. Predati:
+	- Kod s pripadnom dokumentacijom, preporuka je Python notebook (.ipynb)
+	- Dokumentacija (5.)
+	- Rezultati izlučivanja - .csv, .json, ... datoteke
 
 
