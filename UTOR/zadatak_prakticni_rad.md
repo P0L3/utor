@@ -1,12 +1,14 @@
 # Praktični zadatak
 
 Kolegij: **Uvod u teorijsko računarstvo**
+
 Nositelj predmeta: Prof. dr. sc. Sanda Martinčić-Ipšić
+
 Asistent: Andrija Poleksić, mag. inf.
 
 ## Opis zadatka
 
-Neprisupačni formati poput PDF-a skrivaju velike količine korisnih podataka. Riječima autora [Camelot](https://camelot-py.readthedocs.io/en/master/) biblioteke: 
+Nepristupačni formati poput PDF-a skrivaju velike količine korisnih podataka. Riječima autora [Camelot](https://camelot-py.readthedocs.io/en/master/) biblioteke: 
 > "Sadly, a lot of today’s open data is trapped in PDF (tables)."
 
 Želimo te podatke preoblikovati u format koji računala mogu automatski procesirati, pritom stvarajući dobit za pojedinu tvrtku, ustanovu ili nas same. 
@@ -15,9 +17,9 @@ Neprisupačni formati poput PDF-a skrivaju velike količine korisnih podataka. R
 U ovom zadatku potrebno je:
 1. Odabrati izvor "nepristupačnih" podataka. 
 
-> (*default:* PDF dokumenti (radovi) pojedinog časopisa iz domene klimatskih promjena)
+> (*default:* PDF dokumenti (radovi) pojedinog časopisa iz domene klimatskih promjena.)
 
-> Popis će biti dostupan na Merlinu
+> Popis će biti dostupan na Merlinu.
 
 2. Osmisliti shemu podataka koju ćete izlučivati. (Kompleksnost se boduje!)
 
@@ -49,7 +51,7 @@ U ovom zadatku potrebno je:
 	- Informacije o izvoru podataka
 	- Korišteni alati/biblioteke
 	- Struktura spremljenih podataka
-	- Bilješke o izlučivanju podataka (npr. *U nekim radovim nije bilo moguće izlučiti podnaslove jer se ne razlikuju od ostatka teksta.*)
+	- Bilješke o izlučivanju podataka (npr. *U nekim radovima nije bilo moguće izlučiti podnaslove jer se ne razlikuju od ostatka teksta.*)
 
 
 
