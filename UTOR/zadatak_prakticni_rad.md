@@ -45,7 +45,7 @@ U ovom zadatku potrebno je:
 
 3. Automatski izlučiti podatke s proizvoljnim open-source alatom/bibliotekom.
 
-4. Izlučene podatke spremiti u json i csv formatu te dva prozvoljno izabrana formata (npr. parquet, xml).
+4. Izlučene podatke spremiti u json i csv formatu te dva proizvoljno izabrana formata (npr. parquet, xml).
 
 5. Uz kod napisati pripadnu dokumentaciju:
 	- Informacije o izvoru podataka
@@ -58,4 +58,16 @@ U ovom zadatku potrebno je:
 	- Dokumentacija (5.)
 	- Rezultati izlučivanja - .csv, .json, ... datoteke
 
+> Komentari:
+>> Ideja je tekst očuvati što konzistentnijim.
+>> Česti problemi sa ekstrakcijom:
+
+| Problem Description                                            | Example/Explanation                                                                                                                                                                                 |
+|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Text data missing due to unexpected font size/style            | Where $2$ and $two$ always makes up five.<br />**Where and always makes up five.** <br /> ... original BERT<sub>BASE</sub> model with  ... <br /> **... original BERT model with ...** |
+| Wrong ordering of paragraphs                                   | Layout algorithm heuristics give wrong conclusions based on distance, e.g. bottom right paragraph is "closer" to top right paragraph then to the top left paragraph due to a figure/table/graph.    |
+| Page numbering or similar information abrupt paragraph content | For navigation through HTML files, we used BeautifulSoup library. <br /> **For navigation through HTML files, we PAGE 5 AUTHOR ET AL. used BeautifulSoup library.**                          |
+| Wrong word ordering due to justification                       | Nature  &nbsp; &nbsp; &nbsp;  climate <br /> change <br /> **Nature change climate**                                                                                                               |
+| Problems with wrong symbol extraction (Ligatures)              | ... far-reaching effects on global ecosystems ... <br /> **... far-reaching eﬀects on global ecosystems ...**                                                                                |
+| First line of paragraph missing                                |                                                                                                                                                                                                     |
 
