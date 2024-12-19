@@ -12,7 +12,7 @@
 
 ## Zadatak 2
 
-> Izlučite sav tekstualni sadržaj istraživačkog rada (preuzetog dokumenta), isključujući matematičke formule te meta-podatke.
+> Izlučite sav tekstualni sadržaj istraživačkog rada (preuzetog dokumenta), zanemarite matematičke formule te informacije o radu (datum objave, imena autora, afilijacije, ...). ~~isključujući matematičke formule te meta-podatke.~~
 
 ## Zadatak 3
 
