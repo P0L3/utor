@@ -6,6 +6,8 @@ Nositelj predmeta: Prof. dr. sc. Sanda Martinčić-Ipšić
 
 Asistent: Andrija Poleksić, mag. inf.
 
+> Note za sljedeću godinu: Dodati mjerenje performanski koda kao extra work!
+
 ## Opis zadatka
 
 Nepristupačni formati poput PDF-a skrivaju velike količine korisnih podataka. Riječima autora [Camelot](https://camelot-py.readthedocs.io/en/master/) biblioteke: 
