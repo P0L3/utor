@@ -6,7 +6,7 @@ Nositelj predmeta: Prof. dr. sc. Sanda Martinčić-Ipšić
 
 Asistent: Andrija Poleksić, mag. inf.
 
-> Note za sljedeću godinu: Dodati mjerenje performanski koda kao extra work!
+> Note za sljedeću godinu: Dodati mjerenje performansi koda kao extra work!
 
 ## Opis zadatka
 
@@ -64,6 +64,8 @@ U ovom zadatku potrebno je:
 ---
 > Komentari:
 >> Ideja je tekst očuvati što konzistentnijim.
+>>
+>>> *However beautiful the strategy, you should occasionally look at the results.* - Winston Churchill
 >> 
 >> Česti problemi sa ekstrakcijom:
 
