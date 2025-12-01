@@ -6,7 +6,6 @@ Nositelj predmeta: Prof. dr. sc. Sanda Martinčić-Ipšić
 
 Asistent: Andrija Poleksić, mag. inf.
 
-> Note za sljedeću godinu: Dodati mjerenje performansi koda kao extra work!
 
 ## Opis zadatka
 
@@ -52,6 +51,7 @@ U ovom zadatku potrebno je:
 5. Uz kod napisati pripadnu dokumentaciju:
 	- **Informacije o izvoru podataka**
 	- **Korišteni alati/biblioteke**
+	- **Opis primjene velikih jezičnih modela** (npr. *ChatGPT, Gemini, ...*) **u izradi koda/dokumentacije**
 	- **Struktura spremljenih podataka**
 	- **Bilješke o izlučivanju podataka** (npr. *U nekim radovima nije bilo moguće izlučiti podnaslove jer se ne razlikuju od ostatka teksta.*)
 
