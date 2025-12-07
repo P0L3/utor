@@ -1,10 +1,7 @@
 # Probni zadatak
 
 > Komentar: Preporučene biblioteke su [pdfminer.six](https://pdfminersix.readthedocs.io) i [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
->
-> **Predaja (točnih rješenja) ovih zadatka na merlinu nosi 5 dodatnih bodova.**
-> 
-> Potrebno je predati sav korišten kod te rezultate.
+
 
 ## Zadatak 1
 
