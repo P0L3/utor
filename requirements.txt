@@ -2,3 +2,4 @@ pdfminer.six==20231228
 beautifulsoup4==4.12.2
 ipykernel
 requests
+camelot-py[base]
